@@ -2,8 +2,8 @@
 <level>
   <owner>Fistachka</owner>
   <repo>house</repo>
-  <version>v1.0.10</version>
-  <next number="1" owner="stolbitsa" repo="tonic"/>
+  <version>v1.0.11</version>
+  <next number="1" owner="fistachka" repo="deer"/>
   <readme>
     <ru>b4daac289c97f32d4c8316110c38b41fb52c82aecdb0b4f825eaabff57d6d952</ru>
     <en>6705ede5a5bd0293bc14dfaac0ae1937bbb968eb772ebd05a626533e3b58b0aa</en>
