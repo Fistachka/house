@@ -2,10 +2,10 @@
 <level>
   <owner>Fistachka</owner>
   <repo>house</repo>
-  <version>v1.0.14</version>
+  <version>v1.0.15</version>
   <next number="1" owner="fistachka" repo="t-octaves"/>
   <readme>
-    <ru>b9563130ebcde6e39cfaec20c330199cd57ffbf4283062662559dc65cd94eaa3</ru>
+    <ru>c144e2b83a4aa8b46cb47468d2baf35d552b24426993ec629133f3a03f9e4fac</ru>
     <en>8952ffee017ae0727d8f7be4b1f7da8c21344354b6ef7d9f66951c871d87e319</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
