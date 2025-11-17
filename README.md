@@ -6,7 +6,9 @@
 <iframe width="315" height="560" src="https://www.youtube.com/embed/AKZcNuFd9kY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xV6DZYCVvS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Предыдущий урок: stolbitsa.com/stolbitsa/du-hast<br><br>
+Предыдущий урок:
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/fc4e4260-4064-4ac1-83de-c554e18b5a8e =200x200)
+stolbitsa.com/stolbitsa/du-hast<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -15,5 +17,7 @@
 <iframe width="315" height="560" src="https://www.youtube.com/embed/gAu8UcA267o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u7-Tep_jiVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Previous lesson: stolbitsa.com/stolbitsa/du-hast<br><br>
+Previous lesson:
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/fc4e4260-4064-4ac1-83de-c554e18b5a8e =200x200)
+stolbitsa.com/stolbitsa/du-hast<br><br>
 
